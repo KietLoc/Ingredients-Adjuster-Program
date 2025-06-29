@@ -32,10 +32,10 @@ int main()
 
 	calcIngredients(cookiesNew, sugarNew, butterNew, flourNew);
 
-	cout << "Amount of ingredients are as follows:\n";
-	cout << sugarNew << " cups of sugar\n";
-	cout << butterNew << " cups of butter\n";
-	cout << flourNew << " cups of flour\n";
+	cout << "Amount of ingredients are as follows:" << endl;
+	cout << sugarNew << " cups of sugar" << endl;
+	cout << butterNew << " cups of butter" << endl;
+	cout << flourNew << " cups of flour" << endl;
 
 	return 0;
 }
